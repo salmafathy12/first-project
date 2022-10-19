@@ -1,0 +1,49 @@
+.kids{
+    display:flex;
+    width: 100%;
+    background-color: black;
+    justify-content: space-around;
+    /* text-align: center; */
+}
+.kids h1{
+    color: white;
+    align-items: center;
+    font-size: 50px; 
+    
+}
+.kids p{
+    color: white;
+    align-items: center;
+    font-size: 25px;
+
+}
+.kids img{
+    width: 500px;
+}
+.cat{
+    display: flex;
+    justify-content: space-around;
+}
+.sec{
+    display: flex;
+    justify-content: space-around;
+}
+.fet{
+    display: flex;
+    justify-content: space-around;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    padding: 8px;
+    font-weight: bold;
+    margin-left:100px;
+    margin-top: 10px;
+}
